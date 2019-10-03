@@ -1,6 +1,6 @@
 // Author: Mohammad Faisal
 // Email: mohammad.faisal78612@gmail.com
-// GeeksForGeeks: 
+// GeeksForGeeks: Josephus problem
 int josephus(int n, int k)
 {
    //Your code here
